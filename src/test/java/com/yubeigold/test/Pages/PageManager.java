@@ -1,6 +1,6 @@
-package com.yubeigold.test.BasicTest.Pages;
+package com.yubeigold.test.Pages;
 
-import com.yubeigold.test.BasicTest.UiHelper.UiHelper;
+import com.yubeigold.test.UiHelper.UiHelper;
 
 /**
  * Created by xuxiaobo on 2017/4/10 0006.

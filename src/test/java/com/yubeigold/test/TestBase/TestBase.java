@@ -1,7 +1,7 @@
-package com.yubeigold.test.BasicTest.TestBase;
+package com.yubeigold.test.TestBase;
 
-import com.yubeigold.test.BasicTest.Pages.PageManager;
-import com.yubeigold.test.BasicTest.UiHelper.UiHelper;
+import com.yubeigold.test.Pages.PageManager;
+import com.yubeigold.test.UiHelper.UiHelper;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;

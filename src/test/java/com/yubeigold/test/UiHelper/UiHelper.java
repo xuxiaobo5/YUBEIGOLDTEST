@@ -1,4 +1,4 @@
-package com.yubeigold.test.BasicTest.UiHelper;
+package com.yubeigold.test.UiHelper;
 
 import io.appium.java_client.AppiumDriver;
 import org.apache.tools.ant.taskdefs.Sleep;

@@ -1,8 +1,6 @@
-package com.yubeigold.test.BasicTest.TestCase;
+package com.yubeigold.test.TestCase;
 
-import com.yubeigold.test.BasicTest.TestBase.TestBase;
-import io.appium.java_client.AppiumDriver;
-import io.appium.java_client.SwipeElementDirection;
+import com.yubeigold.test.TestBase.TestBase;
 import org.testng.annotations.Test;
 
 /**

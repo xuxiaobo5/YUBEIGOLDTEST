@@ -1,6 +1,6 @@
-package com.yubeigold.test.BasicTest.Pages;
+package com.yubeigold.test.Pages;
 
-import com.yubeigold.test.BasicTest.UiHelper.UiHelper;
+import com.yubeigold.test.UiHelper.UiHelper;
 import org.openqa.selenium.WebElement;
 
 /**
